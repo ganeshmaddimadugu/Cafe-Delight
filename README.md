@@ -29,6 +29,16 @@ A modern and responsive multi-page restaurant website built using **HTML, CSS, a
 - script.js → JavaScript  
 
 ---
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 🍔 Menu Page
+![Menu Page](screenshots/menu.png)
+
+### 📞 Contact Page
+![Contact Page](screenshots/contact.png)
 ---
 
 ## 💡 What I Learned
