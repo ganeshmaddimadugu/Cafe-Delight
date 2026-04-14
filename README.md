@@ -32,7 +32,7 @@ A modern and responsive multi-page restaurant website built using **HTML, CSS, a
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/Homepage.png)
+![Home Page](screenshorts/Homepage.png)
 
 ### 🍔 Menu Page
 ![Menu Page](screenshots/Menupage.png)
