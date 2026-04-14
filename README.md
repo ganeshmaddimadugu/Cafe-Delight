@@ -35,10 +35,13 @@ A modern and responsive multi-page restaurant website built using **HTML, CSS, a
 ![Home Page](screenshorts/Homepage.png)
 
 ### 🍔 Menu Page
-![Menu Page](screenshots/Menupage.png)
+![Menu Page](screenshorts/Menupage.png)
 
 ### 📞 Contact Page
-![Contact Page](screenshots/contact.png)
+![Contact Page](screenshorts/contactpage.png)
+
+### 📖 About Page
+![About Page](screenshorts/aboutpage.png)
 ---
 
 ## 💡 What I Learned
